@@ -5,7 +5,7 @@ function App() {
     <div className="app">
       <h1>Student Directory</h1>
       <div className="card-list">
-        {/* TODO: replace with YOUR real information (student ID is REQUIRED) */}
+        
         <StudentProfileCard
           name="Abdulaziz Bahriddinov"
           studentId="YOUR_STUDENT_ID"
@@ -13,7 +13,7 @@ function App() {
           year={3}
           gpa={3.75}
         />
-        {/* TODO: replace with two classmates' real names and details */}
+        
         <StudentProfileCard
           name="Classmate One Name"
           studentId="CLASSMATE_1_ID"

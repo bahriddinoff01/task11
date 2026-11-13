@@ -1,5 +1,4 @@
-// src/StudentProfileCard.jsx
-function StudentProfileCard({ name, studentId, major, year, gpa }) {
+function  StudentProfileCard({ name, studentId, major, year, gpa }) {
   return (
     <div className="profile-card">
       <div className="card-header">
